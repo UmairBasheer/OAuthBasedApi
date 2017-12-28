@@ -1,0 +1,2 @@
+Run the SQLQuery to create the database, which entity is using.
+Change the connection string EmployeeDBEntities with new one.
